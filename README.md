@@ -100,7 +100,7 @@
 <body>
   <header>
     <div class="container">
-    <img src="C:\Users\shiva\Pictures\Saved Pictures\raksh professional.jpeg" alt="Your Image"> 
+    <img src=![RAKSHANA](C:\Users\shiva\Pictures\Saved Pictures\raksh professional.jpeg) alt="rakshana"> 
       <h1>Rakshana</h1>
       <p>Tech enthusiast | Front-End development</p>
       
