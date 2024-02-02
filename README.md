@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -100,7 +99,7 @@
 <body>
   <header>
     <div class="container">
-    <img src="C:\Users\shiva\Pictures\Saved Pictures\raksh professional.jpeg" alt="Your Image"> 
+    <img src=![rakshana](C:\Users\shiva\Pictures\raksh.jpeg) alt="Your Image"> 
       <h1>Rakshana</h1>
       <p>Tech enthusiast | Front-End development</p>
       
